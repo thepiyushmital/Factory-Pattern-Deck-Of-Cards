@@ -1,1 +1,1 @@
-# deckOfCards
+# deck-of-cards
