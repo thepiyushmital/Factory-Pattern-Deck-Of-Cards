@@ -1,0 +1,14 @@
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/utils/DeckTypeEnum.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/functors/UnoDeckFunctor.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/model/Card.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/functorFactory/DeckFunctorFactory.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/deck/App.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/functors/NormalDeckFunctor.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/utils/FeatureEnum.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/utils/HouseTypeEnum.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/model/NormalCard.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/model/Deck.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/functorFactory/AbstractDeckFunctorFactory.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/functors/DeckFunctor.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/utils/ColorEnum.java
+/home/pmital/eclipse-workspace/deck/src/main/java/com/pmital/practice/model/UnoCard.java
