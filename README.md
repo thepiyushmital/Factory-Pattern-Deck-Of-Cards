@@ -1,4 +1,4 @@
-# deck-of-cards
+# Design Patterns: Factory Pattern - deck-of-cards
 Deck of Cards Problem
 
 Project Requirements
